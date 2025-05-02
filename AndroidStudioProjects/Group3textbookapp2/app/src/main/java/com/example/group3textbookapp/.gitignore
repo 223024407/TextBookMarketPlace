@@ -1,0 +1,4 @@
+.gradle/ 
+AppData/ 
+Documents/ 
+*.lock 
